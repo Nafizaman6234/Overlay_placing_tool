@@ -1,14 +1,14 @@
-<!DOCTYPE html>
+y<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tool - TECHIF.STORE</title>
+    <title>Overlay_Tool</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
-        <h2><img src="https://techif.store/wp-content/uploads/2024/04/techiflogo.png" alt="techif.store logo"></h2>
+        <h2><img src="header image location" alt="alt text"></h2>
         <div class="upload-box">
          
             <label for="imageInput" class="upload-button">Choose Images</label>
