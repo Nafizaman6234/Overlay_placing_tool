@@ -1,1 +1,3 @@
 # Overlay_placing_tool
+
+This simple web based tool is used to add overlay image or brand mark on images. just put the barnd mark icon images and rename it then adjust the size and placement of the icons inside the source code and the tool will automatically resize and place the icon images on the main image accordingly. it has the option for bulk upload.....
